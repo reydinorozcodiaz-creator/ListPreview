@@ -1,0 +1,5 @@
+{
+  "name": "Visual Link Organizer",
+  "description": "A visually appealing link management tool that automatically extracts metadata, titles, and images from URLs, with local persistence and smooth interactions.",
+  "requestFramePermissions": []
+}
